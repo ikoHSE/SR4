@@ -1,0 +1,8 @@
+/Users/ilya/Developer/HSE/Костюченко_4/SR4/SR4/bin/Debug/SR4.exe
+/Users/ilya/Developer/HSE/Костюченко_4/SR4/SR4/bin/Debug/SR4.pdb
+/Users/ilya/Developer/HSE/Костюченко_4/SR4/SR4/bin/Debug/Triangle.dll
+/Users/ilya/Developer/HSE/Костюченко_4/SR4/SR4/bin/Debug/Triangle.pdb
+/Users/ilya/Developer/HSE/Костюченко_4/SR4/SR4/obj/x86/Debug/Read.csproj.CoreCompileInputs.cache
+/Users/ilya/Developer/HSE/Костюченко_4/SR4/SR4/obj/x86/Debug/SR4.exe
+/Users/ilya/Developer/HSE/Костюченко_4/SR4/SR4/obj/x86/Debug/SR4.pdb
+/Users/ilya/Developer/HSE/Костюченко_4/SR4/SR4/obj/x86/Debug/Read.csprojResolveAssemblyReference.cache

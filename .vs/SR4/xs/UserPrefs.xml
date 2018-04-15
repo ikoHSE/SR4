@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{B24C8C3A-6F8B-4AD7-BB48-5C48873CB4FF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Triangle/Triangle.cs">
+    <Files>
+      <File FileName="SR4/Program.cs" Line="20" Column="49" />
+      <File FileName="Write/Program.cs" Line="7" Column="18" />
+      <File FileName="Triangle/Triangle.cs" Line="53" Column="1" />
+      <File FileName="Triangle/iko.cs" Line="5" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SR4" expanded="True">
+            <Node name="Read" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+            <Node name="Triangle" expanded="True">
+              <Node name="Triangle.cs" selected="True" />
+            </Node>
+            <Node name="Write" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Read PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Write PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
